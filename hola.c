@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void main () {
-  char *nombre = "GKar";
+  char *name = "GKar";
 
-  printf ("Hola %s!\n", nombre);
+  printf ("Hola %s!\n", name);
 }
